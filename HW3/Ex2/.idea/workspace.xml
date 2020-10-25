@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7806088b-6b8d-4c12-947c-de3ae331a2c9" name="Default Changelist" comment="" />
+    <list default="true" id="6326abce-c38e-4c74-bde4-a56cd72a6258" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,18 +14,18 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1jMnnF2IUqkyDKXCymrXBJvKx58" />
+  <component name="ProjectId" id="1jNT2JJUQNwp5s3tinlBClnPU0U" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ex1" />
   </component>
   <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Ex1" />
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ex2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -45,38 +45,47 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7806088b-6b8d-4c12-947c-de3ae331a2c9" name="Default Changelist" comment="" />
-      <created>1603622992650</created>
+      <changelist id="6326abce-c38e-4c74-bde4-a56cd72a6258" name="Default Changelist" comment="" />
+      <created>1603643341023</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603622992650</updated>
+      <updated>1603643341023</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="494" y="140" width="424" height="513" key="FileChooserDialogImpl" timestamp="1603643216282">
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603643411058">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="494" y="140" width="424" height="513" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1603643216282" />
-    <state width="1276" height="206" key="GridCell.Tab.0.bottom" timestamp="1603643221873">
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1603643411058" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1603643375054">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="206" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1603643221873" />
-    <state width="1276" height="206" key="GridCell.Tab.0.center" timestamp="1603643221873">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1603643375054" />
+    <state width="1276" height="175" key="GridCell.Tab.0.bottom" timestamp="1603643801632">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="206" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1603643221873" />
-    <state width="1276" height="206" key="GridCell.Tab.0.left" timestamp="1603643221872">
+    <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1603643801632" />
+    <state width="1276" height="175" key="GridCell.Tab.0.center" timestamp="1603643801629">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="206" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1603643221872" />
-    <state width="1276" height="206" key="GridCell.Tab.0.right" timestamp="1603643221873">
+    <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1603643801629" />
+    <state width="1276" height="175" key="GridCell.Tab.0.left" timestamp="1603643801627">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="206" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1603643221873" />
+    <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1603643801627" />
+    <state width="1276" height="175" key="GridCell.Tab.0.right" timestamp="1603643801630">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1603643801630" />
   </component>
 </project>
